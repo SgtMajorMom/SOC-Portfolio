@@ -1,4 +1,12 @@
 # 🛡️ SOC Portfolio  
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC-Operations-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM-Analysis-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDR-Triage-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident-Response-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Log-Analysis-green?style=for-the-badge" />
+</p>
+
 Security Operations Center (SOC) playbooks, runbooks, detections, and incident analysis.
 
 This repository documents my hands‑on learning, workflows, and practical experience in Security Operations. It includes real‑world style playbooks, alert triage processes, detection logic, and case studies developed through labs, training platforms, and self‑guided analysis.
