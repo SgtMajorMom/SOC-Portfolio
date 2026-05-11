@@ -86,15 +86,17 @@ Everything here is written to reflect **real SOC analyst responsibilities** and 
 
 | Skill Area | Competencies | Tools / Technologies |
 |-----------|--------------|----------------------|
-| **SIEM Analysis** | Alert triage, correlation, event validation, tuning recommendations | Microsoft Sentinel (KQL), Splunk (SPL), Elastic |
-| **Email Security** | Phishing analysis, header review, URL/attachment analysis, user impact assessment | Proofpoint, Gmail/Workspace, O365/Defender |
-| **Endpoint Security** | Malware triage, process analysis, isolation, remediation | SentinelOne, Defender for Endpoint |
-| **Identity & Access** | Suspicious login investigation, MFA review, session invalidation | Entra ID, Google Workspace, Okta |
-| **Log Analysis** | Windows Event IDs, Linux logs, SaaS/cloud logs, anomaly detection | Event Viewer, Sysmon, Cloud audit logs |
-| **Detection Engineering** | Writing queries, identifying patterns, creating indicators | KQL, SPL, Elastic DSL |
-| **Incident Response** | Containment, remediation, RCA, documentation, escalation | SOC workflows, IR playbooks |
-| **Vulnerability Management** | Scanning, prioritization, remediation tracking | Tenable, Netwrix |
-| **Documentation** | Playbooks, runbooks, case studies, SOPs | Markdown, GitHub, internal templates |
+| **Log Review & Event Validation** | Reviewing security events, correlating activity, validating alerts, identifying anomalies | Microsoft Defender portal, Windows Event Viewer, M365 Audit Logs, Okta System Logs |
+| **Email Security** | Phishing analysis, header review, URL/attachment analysis, user impact assessment | Proofpoint, Microsoft Defender for O365 |
+| **Endpoint & Device Management** | Device enrollment, compliance, policy enforcement, remote actions, security posture review | Intune, MaaS360 |
+| **Endpoint Security** | Malware triage, process review, isolation, remediation | Microsoft Defender for Endpoint |
+| **Identity & Access Management** | MFA troubleshooting, suspicious login investigation, session invalidation, access reviews | Okta, Entra ID (Azure AD), PingID |
+| **SaaS Security & Administration** | User lifecycle management, access provisioning, permission audits, configuration hardening | Okta, M365, Slack, Zoom, Zoho |
+| **Vulnerability Management** | Scanning, prioritization, remediation tracking, reporting | Tenable, Netwrix |
+| **Security Operations Support** | Triage support, escalation, containment steps, user communication | Defender portal, Okta, M365 |
+| **Documentation & Playbooks** | SOPs, runbooks, playbooks, case studies, onboarding guides | Markdown, GitHub |
+| **Healthcare & Compliance** | PHI/PII handling, HIPAA-aligned workflows, regulated environment support | Healthcare systems, compliance-driven processes |
+
 
 ---
 
