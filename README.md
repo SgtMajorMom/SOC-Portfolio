@@ -82,6 +82,22 @@ Everything here is written to reflect **real SOC analyst responsibilities** and 
 
 ---
 
+## 🧠 SOC Skills Matrix
+
+| Skill Area | Competencies | Tools / Technologies |
+|-----------|--------------|----------------------|
+| **SIEM Analysis** | Alert triage, correlation, event validation, tuning recommendations | Microsoft Sentinel (KQL), Splunk (SPL), Elastic |
+| **Email Security** | Phishing analysis, header review, URL/attachment analysis, user impact assessment | Proofpoint, Gmail/Workspace, O365/Defender |
+| **Endpoint Security** | Malware triage, process analysis, isolation, remediation | SentinelOne, Defender for Endpoint |
+| **Identity & Access** | Suspicious login investigation, MFA review, session invalidation | Entra ID, Google Workspace, Okta |
+| **Log Analysis** | Windows Event IDs, Linux logs, SaaS/cloud logs, anomaly detection | Event Viewer, Sysmon, Cloud audit logs |
+| **Detection Engineering** | Writing queries, identifying patterns, creating indicators | KQL, SPL, Elastic DSL |
+| **Incident Response** | Containment, remediation, RCA, documentation, escalation | SOC workflows, IR playbooks |
+| **Vulnerability Management** | Scanning, prioritization, remediation tracking | Tenable, Netwrix |
+| **Documentation** | Playbooks, runbooks, case studies, SOPs | Markdown, GitHub, internal templates |
+
+---
+
 ## 🧪 Sources of Hands‑On Work
 
 This portfolio is built from:
