@@ -8,7 +8,7 @@ My goal is to build a strong foundation in SOC operations, incident response, an
 ---
 
 ## 📂 Repository Structure
-soc-portfolio/
+### **soc-portfolio/**
 
 playbooks/
 -  phishing-investigation.md
