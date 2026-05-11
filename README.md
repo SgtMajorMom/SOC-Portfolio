@@ -90,7 +90,9 @@ Everything here is written to reflect **real SOC analyst responsibilities** and 
 | **Endpoint & Device Management** | Device enrollment, compliance, policy enforcement, remote actions, security posture review | Intune, MaaS360 |
 | **Endpoint Security** | Malware triage, process review, isolation, remediation | Microsoft Defender for Endpoint |
 | **Identity & Access Management** | MFA troubleshooting, suspicious login investigation, session invalidation, access reviews | Okta, Entra ID (Azure AD), PingID |
-| **SaaS Security & Administration** | User lifecycle management, access provisioning, permission audits, configuration hardening | Okta, M365,  Zoom, Zoho |
+| **Alert Pattern Recognition** | Identifying indicators, correlating events, validating alerts, recognizing suspicious behavior | Microsoft Defender alerts, Okta security events, Entra ID identity alerts, Proofpoint alerts |
+| **SaaS Security & Administration** | User lifecycle management, access provisioning, permission audits, configuration hardening | Okta, M365, Slack, Zoom, Zoho, ServiceNow, FreshService, Lotus Notes |
+| **Remote Support & Troubleshooting** | Secure remote access, session support, endpoint troubleshooting, user assistance | Quick Assist, Teams screen control, ScreenConnect, DameWare |
 | **Vulnerability Management** | Scanning, prioritization, remediation tracking, reporting | Tenable, Netwrix |
 | **Security Operations Support** | Triage support, escalation, containment steps, user communication | Defender portal, Okta, M365 |
 | **Documentation & Playbooks** | SOPs, runbooks, playbooks, case studies, onboarding guides | Markdown, GitHub |
