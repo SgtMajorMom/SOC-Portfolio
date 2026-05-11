@@ -1,7 +1,7 @@
 # 🛡️ SOC Portfolio  
 Security Operations Center (SOC) playbooks, runbooks, detections, and incident analysis.
 
-This repository documents my hands‑on learning, workflows, and practical experience in Security Operations. It includes real-world style playbooks, alert triage processes, detection logic, and case studies developed through labs, training platforms, and self‑guided analysis.
+This repository documents my hands‑on learning, workflows, and practical experience in Security Operations. It includes real‑world style playbooks, alert triage processes, detection logic, and case studies developed through labs, training platforms, and self‑guided analysis.
 
 My goal is to build a strong foundation in SOC operations, incident response, and threat detection while demonstrating clear, structured analytical thinking.
 
