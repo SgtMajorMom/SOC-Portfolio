@@ -9,40 +9,40 @@ My goal is to build a strong foundation in SOC operations, incident response, an
 
 ## 📂 Repository Structure
 soc-portfolio/
-│
-├── playbooks/
-│   ├── phishing-investigation.md
-│   ├── suspicious-login.md
-│   ├── malware-on-endpoint.md
-│   └── impossible-travel.md
-│
-├── runbooks/
-│   ├── siem-alert-validation.md
-│   ├── triage-levels.md
-│   ├── escalation-procedures.md
-│   └── incident-documentation.md
-│
-├── incident-reports/
-│   ├── phishing-case-study.md
-│   ├── malware-case-study.md
-│   └── vpn-bruteforce-case-study.md
-│
-├── detections/
-│   ├── kql/
-│   ├── spl/
-│   └── elastic-dsl/
-│
-├── log-analysis/
-│   ├── windows-event-ids.md
-│   ├── linux-logs.md
-│   └── email-header-analysis.md
-│
-├── vulnerability-management/
-│   ├── scanning-workflow.md
-│   ├── remediation-tracking.md
-│   └── reporting-template.md
-│
-└── README.md
+
+playbooks/
+-  phishing-investigation.md
+- suspicious-login.md
+- malware-on-endpoint.md
+-  impossible-travel.md
+
+runbooks/
+- siem-alert-validation.md
+- triage-levels.md
+- escalation-procedures.md
+- incident-documentation.md
+
+incident-reports/
+- phishing-case-study.md
+- malware-case-study.md
+- vpn-bruteforce-case-study.md
+
+detections/
+- kql/
+- spl/
+- elastic-dsl/
+
+log-analysis/
+- windows-event-ids.md
+- linux-logs.md
+- email-header-analysis.md
+
+vulnerability-management/
+- scanning-workflow.md
+- remediation-tracking.md
+- reporting-template.md
+
+- README.md
 
 
 ---
