@@ -34,10 +34,10 @@ My goal is to build a strong foundation in SOC operations, incident response, an
 - malware-case-study.md  
 - vpn-bruteforce-case-study.md  
 
-### 🔍 Detections
-- kql/  
-- spl/  
-- elastic-dsl/  
+### 🔍 Alert Patterns & Indicators
+- email-alert-patterns/
+- identity-alert-patterns/
+- endpoint-alert-patterns/
 
 ### 📊 Log Analysis
 - windows-event-ids.md  
@@ -58,7 +58,7 @@ This repo serves as a living collection of:
 - SOC playbooks and runbooks  
 - Alert triage workflows  
 - Incident response documentation  
-- Detection engineering examples  
+- Identity, endpoint, and email security workflows  
 - Log analysis and investigation notes  
 - Case studies from labs and training  
 - Vulnerability management processes  
@@ -118,12 +118,11 @@ As I complete more labs and training, I will continue adding new playbooks, dete
 
 ## 🚀 Roadmap
 
-- Add full phishing investigation playbook  
-- Build KQL detection library  
-- Add malware triage workflow  
-- Add Windows Event ID cheat sheet  
-- Create redacted case studies from lab scenarios  
-- Add SIEM alert validation templates  
+- Add additional phishing investigation examples  
+- Add endpoint triage workflow expansion
+- Add Windows Event ID cheat sheet
+- Create redacted case studies from lab scenarios 
+- Add identity alert investigation examples
 - Expand vulnerability management section  
 
 ---
