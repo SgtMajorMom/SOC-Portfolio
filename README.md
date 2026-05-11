@@ -1,10 +1,10 @@
 # 🛡️ SOC Portfolio  
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC-Operations-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIEM-Analysis-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EDR-Triage-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incident-Response-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Log-Analysis-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOC-Operations-blue?style=flat" />
+  <img src="https://img.shields.io/badge/SIEM-Analysis-purple?style=flat" />
+  <img src="https://img.shields.io/badge/EDR-Triage-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Incident-Response-red?style=flat" />
+  <img src="https://img.shields.io/badge/Log-Analysis-green?style=flat" />
 </p>
 
 Security Operations Center (SOC) playbooks, runbooks, detections, and incident analysis.
