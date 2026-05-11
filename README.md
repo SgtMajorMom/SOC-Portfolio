@@ -87,7 +87,7 @@ Everything here is written to reflect **real SOC analyst responsibilities** and 
 |-----------|--------------|----------------------|
 | **Log Review & Event Validation** | Reviewing security events, correlating activity, validating alerts, identifying anomalies | Microsoft Defender portal, Windows Event Viewer, M365 Audit Logs, Okta System Logs |
 | **Email Security** | Phishing analysis, header review, URL/attachment analysis, user impact assessment | Proofpoint, Microsoft Defender for O365 |
-| **Endpoint & Device Management** | Device enrollment, compliance, policy enforcement, remote actions, security posture review | Intune, MaaS360 |
+| **Endpoint & Device Management** | Device enrollment, compliance, policy enforcement, remote actions, security posture review | Intune, MaaS360, PingID |
 | **Endpoint Security** | Malware triage, process review, isolation, remediation | Microsoft Defender for Endpoint |
 | **Identity & Access Management** | MFA troubleshooting, suspicious login investigation, session invalidation, access reviews | Okta, Entra ID (Azure AD), PingID |
 | **Alert Pattern Recognition** | Identifying indicators, correlating events, validating alerts, recognizing suspicious behavior | Microsoft Defender alerts, Okta security events, Entra ID identity alerts, Proofpoint alerts |
